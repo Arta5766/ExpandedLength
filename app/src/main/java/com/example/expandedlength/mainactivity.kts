@@ -1,4 +1,3 @@
-رامین2, [11/6/2026 2:27 PM]
 package com.example.expandedlength
 
 import android.app.Activity
